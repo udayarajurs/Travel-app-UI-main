@@ -12,9 +12,17 @@ export default class Home extends React.Component {
       >
 
         
+
+
+
+
+
         <View
           style={{
-            flexDirection: "row",
+            flexDirection: "rowqwertsdaasdasdyuio",
+
+
+            
             marginTop: 40,
             alignItems: "center",
             paddingHorizontal: 40,
