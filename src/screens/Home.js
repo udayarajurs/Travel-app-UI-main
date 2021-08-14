@@ -10,6 +10,8 @@ export default class Home extends React.Component {
         source={require("../images/back.png")}
         style={{ width: "100%", height: "100%" }}
       >
+
+        
         <View
           style={{
             flexDirection: "row",
